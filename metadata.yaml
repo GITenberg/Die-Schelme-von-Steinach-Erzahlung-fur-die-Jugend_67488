@@ -7,6 +7,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '38702'
     url: http://www.gutenberg.org/2009/agents/38702
+covers:
+- cover_type: archival
+  image_path: 67488-h/images/cover.jpg
 creator:
   author:
     agent_name: Siebe, Josephine
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38491
     wikipedia: https://de.wikipedia.org/wiki/Josephine_Siebe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67488#Die-Schelme-von-Steinach-Erzahlung-fur-die-Jugend
 gutenberg_issued: '2022-02-24'
 identifiers:
   gutenberg: '67488'
